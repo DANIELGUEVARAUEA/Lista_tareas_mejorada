@@ -1,0 +1,6 @@
+proyecto matematicas|True
+proyecto fisica|True
+proyecto sistemas operativos|False
+proyecto ingles|False
+proyecto estadistica|False
+proyecto programacion|True
